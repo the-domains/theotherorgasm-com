@@ -1,0 +1,28 @@
+name: TheOtherOrgasm.com
+favicon: null
+layout_spectrum: 0.5290819834917784
+typography_spectrum: 0.8752898308448493
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.04134825733490288
+  lightness: 0.5778703254181892
+  saturation: 0.3496517385356128
+  rhythmicContrast: 0.13088325527496636
+purpose: []
